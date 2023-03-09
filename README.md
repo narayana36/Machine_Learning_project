@@ -8,12 +8,18 @@
 4. [GIT cli](https://git-scm.com)
 
  Creating conda environment
+
 ''''''
- conda activate -p venv python==3.7 -y
- ''''''
- OR
- ''''''
- conda activate venv
+
+conda activate -p venv python==3.7 -y
+
+''''''
+
+OR
+
+''''''
+
+conda activate venv
  ''''''
  pip install -r requirements.txt
  '''''
